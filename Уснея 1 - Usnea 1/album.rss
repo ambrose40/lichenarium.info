@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Уснея 1 - Usnea 1</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/</jalbum:absolutePath>
+        <item>
+            <title>DSC09002</title>
+            <link>https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/slides/DSC09002.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/thumbs/DSC09002.webp" width="307" height="246"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/slides/DSC09002.webp" width="960" height="1280"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:22:51 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09002.webp</guid>
+        </item>
+        <item>
+            <title>DSC09003</title>
+            <link>https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/slides/DSC09003.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/thumbs/DSC09003.webp" width="307" height="246"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/slides/DSC09003.webp" width="960" height="1280"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:22:58 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09003.webp</guid>
+        </item>
+        <item>
+            <title>DSC09004</title>
+            <link>https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/slides/DSC09004.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/thumbs/DSC09004.webp" width="307" height="246"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/lichenarium.info/%D0%A3%D1%81%D0%BD%D0%B5%D1%8F%201%20-%20Usnea%201/slides/DSC09004.webp" width="960" height="1280"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:23:03 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09004.webp</guid>
+        </item>
+    </channel>
+</rss>
